@@ -1,0 +1,14 @@
+.p-card{
+    border: 0;
+}
+.footer{
+    background-color: white;
+    border: 0;
+}
+.ctg img{
+    width: 120px;
+}
+.slide .carousel-item{
+    background-color: rgb(253, 230, 233);
+    border-radius: 0.3em;
+}
